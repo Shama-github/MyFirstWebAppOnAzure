@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebAppOnAzure", "MyFirstWebAppOnAzure.csproj", "{FB4EA6B5-1F8B-46E9-9DEB-2DA4B3532B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebAppOnAzure.Tests", "..\MyFirstWebAppOnAzure.Tests\MyFirstWebAppOnAzure.Tests.csproj", "{EAE981E7-F9FB-48A4-AFE6-D713F69859D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4EA6B5-1F8B-46E9-9DEB-2DA4B3532B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4EA6B5-1F8B-46E9-9DEB-2DA4B3532B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4EA6B5-1F8B-46E9-9DEB-2DA4B3532B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4EA6B5-1F8B-46E9-9DEB-2DA4B3532B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE981E7-F9FB-48A4-AFE6-D713F69859D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE981E7-F9FB-48A4-AFE6-D713F69859D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE981E7-F9FB-48A4-AFE6-D713F69859D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE981E7-F9FB-48A4-AFE6-D713F69859D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56A8138-BA30-42C9-AE2A-965E22B1D7F5}
+	EndGlobalSection
+EndGlobal
